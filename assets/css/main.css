@@ -2131,6 +2131,7 @@ input, select, textarea {
 			border-radius: 0.55em;
 			box-shadow: inset 0px 0px 1px 1px rgba(255, 255, 255, 0.25);
 			padding: 0 1.5em 0 1.5em;
+            border: 2px solid lightgrey;
 		}
 
 			#nav > ul > li {
@@ -2461,6 +2462,8 @@ input, select, textarea {
 
 			#logo {
 				margin-top: -0.5em !important;
+                display: block;
+                border: 2px !important;
 			}
 
 				#logo h1 {
