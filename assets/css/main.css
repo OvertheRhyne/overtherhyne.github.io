@@ -28,7 +28,7 @@ section, summary, time, mark, audio, video {
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
- 
+
 body {
 	line-height: 1;
 }
@@ -1825,8 +1825,8 @@ input, select, textarea {
 			display: block;
 			width: 50%;
 			margin: 0 0 2em 0;
-			margin-left: auto;
-           		margin-right: auto;
+            margin-left: auto;
+            margin-right: auto;
 		}
 
 		.image.left {
